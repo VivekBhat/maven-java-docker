@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=com.vivekbhat.dockerapp -DartifactId=dockerapp -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
